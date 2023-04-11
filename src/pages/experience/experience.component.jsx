@@ -31,7 +31,7 @@ const Experience = () => {
                     <br/>
                     <strong> Description </strong>
                     <ul className="text-left">
-                      <li><strong>Developed &amp; enhanced</strong> multiple features with customizability option across web application.</li>
+                      <li><strong>Developed &amp; enhanced</strong> multiple features with customizability option across web applications.</li>
                       <li><strong>Developed</strong> automation system to create SQL bulk query scripts that 
                         increased efficiency by 80% and decreased working hours from 4 hours to 30 mins per task.
                       </li>
